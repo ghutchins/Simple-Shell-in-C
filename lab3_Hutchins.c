@@ -17,7 +17,7 @@ int parseLine(char *arg, char **input);
 int main (int argc, char *argv[])
 {
 
-	// infinite loop
+	// infinite loop 
 
 	while(1)
 	{
